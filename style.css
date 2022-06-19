@@ -1,0 +1,18 @@
+p{
+    color:#1616e6;
+    text-shadow: 2px 2px 5px blueviolet
+}
+a{
+    color:#0004ff;
+}
+a:hover{
+
+    color:rgb(255, 153, 0);
+    font-size: 24px;
+
+}
+img{
+    border-radius: 20px; box-shadow: 10px 10px 5px rgb(183, 206, 149) ;
+    width: 400px;   
+ 
+}
